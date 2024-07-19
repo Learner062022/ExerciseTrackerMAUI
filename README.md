@@ -20,7 +20,6 @@ This is a .NET MAUI app designed to track exercise minutes, providing various me
 - **Data Persistence**:
     - Saves user data across sessions.
 
-
 ## Why The Project is Useful
 Showcases the implementation of the MVVM architecture in .NET MAUI, demonstarting how to build a modern, maintainable and scalable application. 
 
